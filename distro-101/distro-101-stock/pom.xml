@@ -2,26 +2,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.belatrix</groupId>
-	<artifactId>distro-101</artifactId>
+	<artifactId>stock-101</artifactId>
 	<version>0.0.1.SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>Distro 101 Parent</name>
-	<organization>
-		<name>Java 101 Project</name>
-	</organization>
-	<prerequisites>
-		<maven>3.2.1</maven>
-	</prerequisites>
-	<properties>
-		<main.basedir>${basedir}</main.basedir>
-	</properties>
-	<!-- 
-		La dependencia entre los modulos esta dada por la posicion en la lista
-		(NO SIEMPRE!)
-	 -->
-	<modules>		
-		<module>distro-101-stock</module>
-		<module>distro-101-logistics</module>
-		<module>distro-101-ui</module>
-	</modules>
+	<name>Distro 101 Stock</name>
+	
 </project>

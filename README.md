@@ -1,3 +1,3 @@
 # java-101
-repo for course java-101
-Selected project: Stock, Logistics and UI.
+Repo used with my padawans for course java-101
+Selected project by them: Stock, Logistics and UI.
